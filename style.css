@@ -36,6 +36,7 @@ h2 {
 
 .fs-division {
     margin-left: 70px;
+    text-align: left;
 }
 
 .flex-container span {
@@ -135,30 +136,30 @@ h2 {
 
 .fifth-section {
     margin-top: 50px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: %;
+    margin-right: %;
     margin-bottom: 0;
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.fs-division {
+.ps-division {
     text-align: center;
     margin-top: 90px;
 }
 
-.fs-division h1 {
+.ps-division h1 {
     margin-top: 0;
     font-size: 40px;
 }
 
 .fifth-section .flex-container {
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
     line-height: 20px;
     margin-top: 10px;
-    padding: 20px 30px;
+    padding: 30px 40px;
 }
 
 .fifth-section .flex-container p {
@@ -185,14 +186,14 @@ h2 {
     margin-bottom: 5px;
 }
 
-.ss-division {
+.cs-division {
     text-align: center;
     margin-top: 90px;
     line-height: 10px;
 
 }
 
-.ss-division h1 {
+.cs-division h1 {
     margin-top: 0;
     font-size: 40px;
 }
