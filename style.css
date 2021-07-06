@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -132,15 +133,98 @@ h2 {
     font-size: 45px;
 }
 
+.fifth-section {
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-division {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.fs-division h1 {
+    margin-top: 0;
+    font-size: 40px;
+}
+
+.fifth-section .flex-container {
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 20px;
+    margin-top: 10px;
+    padding: 20px 30px;
+}
+
+.fifth-section .flex-container p {
+    color: rgb(67, 67, 70);
+    margin-left: 40px;
+    font-size: 16px;
+}
+
+.fifth-section .flex-container h2 {
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.527);
+}
+
+.fifth-section h1 {
+    font-size: 40px;
+    color: black;
+}
+
+.sixth-section {
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    background-size: inset;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+.ss-division {
+    text-align: center;
+    margin-top: 90px;
+    line-height: 10px;
+
+}
+
+.ss-division h1 {
+    margin-top: 0;
+    font-size: 40px;
+}
+
+.social-links {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.social-links ul li  {
+    display: inline-block;
+    font-size: 20px;
+    padding: 8px;
+    
+}
+
+.social-links ul li a {
+    text-decoration: none;
+    color: white;
+    background-color:grey;
+    padding: 12px;
+    border-radius: 20px;
+}
+
 footer {
-    margin-top: 100px;
     text-align: center;
     background-color: black;
 }
 
 footer h3 {
     color: rgb(66, 70, 73);
-    font-size: 30px;
+    font-size: 25px;
 }
 
 footer span {
@@ -157,4 +241,5 @@ footer p {
     margin-top: 40px;
     padding: 50px;
 }
+
 
